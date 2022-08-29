@@ -1,6 +1,12 @@
 # Ejercicio evaluado Front End III
 
-Ejercicio en REACT
+CSS
+HTML
+Lenguajes Utilizados:
+Javascript
+
+En: REACT
+
 
 # Demo del proyecto
 
